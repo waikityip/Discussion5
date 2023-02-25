@@ -1,18 +1,17 @@
-@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400;600&display=swap");
 
 :root {
 	/* ### Primary */
-	--Desaturated-Red: hsl(0, 36%, 70%);
-	--Soft-Red: hsl(0, 93%, 68%);
+	--Desaturated-Red: hsl(17, 47%, 70%);
+	--Soft-Red: hsl(0, 99%, 82%);
 
 	/* ### Neutral */
 	--Dark-Grayish-Red: hsl(0, 6%, 24%);
 
 	/* ### Gradients */
-	/* - Linear, 135deg, from hsl(0, 0%, 100%), to hsl(0, 100%, 98%) */
-	/* - Linear, 135deg, from hsl(0, 80%, 86%), to hsl(0, 74%, 74%) */
+	/* - Linear, 135deg, from hsl(0, 0%, 100%), to hsl(0, 100%, 97%) */
+	/* - Linear, 135deg, from hsl(0, 91%, 86%), to hsl(0, 74%, 74%) */
 	--Font-size: 16px;
-	--Family: "Josefin Sans", sans-serif;
+	--Family: sans-serif;
 	/* - Weights: 300, 400, 600 */
 }
 
